@@ -133,5 +133,8 @@ files:
     \    DuplicateFileHandlerCheck().run_tests()\n"
   learner_created: false
 feedback_link: https://hyperskill.org/projects/176/stages/906/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 25 Oct 2021 17:06:59 UTC
 record: -1
