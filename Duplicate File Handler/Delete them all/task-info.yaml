@@ -272,5 +272,9 @@ files:
     \    DuplicateFileHandlerCheck().run_tests()\n"
   learner_created: false
 feedback_link: https://hyperskill.org/projects/176/stages/908/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Thu, 04 Nov 2021 10:00:59 UTC
 record: -1
